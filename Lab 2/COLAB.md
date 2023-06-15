@@ -1,4 +1,4 @@
-# วิธี imort code
+# วิธี import code
 
 0. ดาวโหลด ไฟล์ .ipynb
 1. ไปที่ [Colab](https://colab.research.google.com/)
